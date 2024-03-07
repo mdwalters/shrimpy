@@ -1,2 +1,2 @@
-# shrimpy
-🦐 The fediverse, but shrimpified
+# Shrimpy
+The fediverse, but shrimpified
